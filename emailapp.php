@@ -8,3 +8,5 @@ $headers = 'From: noreply@designbuildapp.in' . "\r\n" .
 
 mail($to, $subject, $message, $headers);
 ?>
+
+<html></html>
